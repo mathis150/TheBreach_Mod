@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "breachmod2:tilefloorslab"
+    },
+    "half=top,variant=default": {
+      "model": "breachmod2:tilefloorslab_top"
+    }
+  }
+}

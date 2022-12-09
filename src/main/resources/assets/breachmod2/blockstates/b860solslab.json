@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "breachmod2:b860solslab"
+    },
+    "half=top,variant=default": {
+      "model": "breachmod2:b860solslab_top"
+    }
+  }
+}

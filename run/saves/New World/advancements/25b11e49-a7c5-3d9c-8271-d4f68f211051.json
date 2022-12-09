@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-05-07 19:44:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2021-05-07 19:44:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-05-07 19:44:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-05-07 19:44:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2022-03-28 20:51:03 +0200",
+      "extreme_hills": "2021-02-26 00:40:39 +0100",
+      "river": "2021-05-07 19:46:34 +0200",
+      "stone_beach": "2022-03-28 20:50:21 +0200"
+    },
+    "done": false
+  }
+}

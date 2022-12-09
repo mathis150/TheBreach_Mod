@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/border_hautgauche",
+    "up": "breachmod2:blocks/border_hautgauche",
+    "north": "breachmod2:blocks/border_hautgauche",
+    "east": "breachmod2:blocks/border_hautgauche",
+    "south": "breachmod2:blocks/border_hautgauche",
+    "west": "breachmod2:blocks/border_hautgauche",
+    "particle": "breachmod2:blocks/border_hautgauche"
+  }
+}

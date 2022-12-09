@@ -1,0 +1,6 @@
+{
+  "parent": "breachmod2:custom/lampe",
+  "textures": {
+    "2": "breachmod2:blocks/lampe"
+  }
+}

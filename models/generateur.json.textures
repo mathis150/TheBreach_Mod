@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil",
+        "1": "yellow_concrete",
+        "2": "iron_block",
+        "4": "red_concrete",
+        "5": "redstone_lamp",
+        "6": "red_stained_glass",
+        "7": "chain",
+        "8": "cyan_concrete",
+        "9": "orange_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

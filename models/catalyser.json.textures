@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "catalyseur1",
+        "1": "catalyseur2",
+        "2": "catalyseur3"
+      },
+      "name": "default"
+    }
+  }
+}

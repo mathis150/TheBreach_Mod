@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "breachmod2:b860solslab_double"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/ontainement_oor2",
+    "up": "breachmod2:blocks/ontainement_oor2",
+    "north": "breachmod2:blocks/ontainement_oor2",
+    "east": "breachmod2:blocks/ontainement_oor2",
+    "south": "breachmod2:blocks/ontainement_oor2",
+    "west": "breachmod2:blocks/ontainement_oor2",
+    "particle": "breachmod2:blocks/ontainement_oor2"
+  }
+}

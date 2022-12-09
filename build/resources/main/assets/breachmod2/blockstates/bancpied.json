@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:bancpied"
+    },
+    "facing=north": {
+      "model": "breachmod2:bancpied"
+    },
+    "facing=east": {
+      "model": "breachmod2:bancpied",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:bancpied",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:bancpied",
+      "y": 270
+    }
+  }
+}

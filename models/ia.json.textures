@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "iron_block",
+        "2": "blue_concrete",
+        "3": "engrenage",
+        "4": "soul_campfire_fire",
+        "5": "glass"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "button_choose",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

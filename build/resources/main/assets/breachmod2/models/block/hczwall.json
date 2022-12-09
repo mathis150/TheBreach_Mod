@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/_exture",
+    "up": "breachmod2:blocks/_exture",
+    "north": "breachmod2:blocks/_exture",
+    "east": "breachmod2:blocks/_exture",
+    "south": "breachmod2:blocks/_exture",
+    "west": "breachmod2:blocks/_exture",
+    "particle": "breachmod2:blocks/_exture"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:lampmural"
+    },
+    "facing=north": {
+      "model": "breachmod2:lampmural"
+    },
+    "facing=east": {
+      "model": "breachmod2:lampmural",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:lampmural",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:lampmural",
+      "y": 270
+    }
+  }
+}

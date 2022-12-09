@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "14",
+        "1": "oneautas"
+      },
+      "name": "default"
+    }
+  }
+}

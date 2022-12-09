@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texturecardreader",
+        "1": "access_denied"
+      },
+      "name": "default"
+    }
+  }
+}

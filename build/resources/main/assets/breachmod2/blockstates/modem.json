@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:modem"
+    },
+    "facing=north": {
+      "model": "breachmod2:modem"
+    },
+    "facing=east": {
+      "model": "breachmod2:modem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:modem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:modem",
+      "y": 270
+    }
+  }
+}

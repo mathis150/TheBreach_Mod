@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:scp1162hole"
+    },
+    "facing=north": {
+      "model": "breachmod2:scp1162hole"
+    },
+    "facing=east": {
+      "model": "breachmod2:scp1162hole",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:scp1162hole",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:scp1162hole",
+      "y": 270
+    }
+  }
+}

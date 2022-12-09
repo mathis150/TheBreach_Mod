@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/caisse_2x2_7",
+  "textures": {
+    "all": "breachmod2:blocks/rate_rouge",
+    "particle": "breachmod2:blocks/rate_rouge",
+    "0": "breachmod2:blocks/rate_rouge"
+  }
+}

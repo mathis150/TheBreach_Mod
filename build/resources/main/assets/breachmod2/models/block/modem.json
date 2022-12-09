@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/modern",
+  "textures": {
+    "all": "breachmod2:blocks/texture2",
+    "particle": "breachmod2:blocks/texture2",
+    "0": "breachmod2:blocks/texture2",
+    "1": "breachmod2:blocks/d4813265664a25c4968bc2b2368ab781"
+  }
+}

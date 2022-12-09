@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/vitre3",
+  "textures": {
+    "all": "breachmod2:blocks/vitre",
+    "particle": "breachmod2:blocks/vitre",
+    "0": "breachmod2:blocks/vitre"
+  }
+}

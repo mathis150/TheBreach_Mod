@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "breachmod2:items/information_alert_normal"
+  }
+}

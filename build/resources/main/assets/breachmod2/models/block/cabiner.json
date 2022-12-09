@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/casier",
+  "textures": {
+    "all": "breachmod2:blocks/casier",
+    "particle": "breachmod2:blocks/casier",
+    "0": "breachmod2:blocks/casier"
+  }
+}

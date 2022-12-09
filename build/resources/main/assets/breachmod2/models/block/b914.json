@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/border_bas",
+    "up": "breachmod2:blocks/border_bas",
+    "north": "breachmod2:blocks/border_bas",
+    "east": "breachmod2:blocks/border_bas",
+    "south": "breachmod2:blocks/border_bas",
+    "west": "breachmod2:blocks/border_bas",
+    "particle": "breachmod2:blocks/border_bas"
+  }
+}

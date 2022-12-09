@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_block",
+        "1": "black_concrete_powder",
+        "2": "red_concrete",
+        "3": "cartography_table_top",
+        "4": "green_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

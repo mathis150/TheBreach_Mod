@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lectricanner4",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

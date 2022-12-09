@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/ewooras",
+    "up": "breachmod2:blocks/ewooras",
+    "north": "breachmod2:blocks/ewooras",
+    "east": "breachmod2:blocks/ewooras",
+    "south": "breachmod2:blocks/ewooras",
+    "west": "breachmod2:blocks/ewooras",
+    "particle": "breachmod2:blocks/ewooras"
+  }
+}

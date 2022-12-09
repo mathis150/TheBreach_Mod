@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "breachmod2:blocks/860_tallgrass",
+    "particle": "breachmod2:blocks/860_tallgrass"
+  }
+}

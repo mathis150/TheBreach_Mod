@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/computer",
+  "textures": {
+    "all": "breachmod2:blocks/omputerodel",
+    "particle": "breachmod2:blocks/omputerodel",
+    "1": "breachmod2:blocks/omputerodel",
+    "missing": "breachmod2:blocks/"
+  }
+}

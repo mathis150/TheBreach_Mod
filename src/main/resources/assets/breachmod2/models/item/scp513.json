@@ -1,0 +1,7 @@
+{
+  "parent": "breachmod2:custom/scp-513",
+  "textures": {
+    "0": "breachmod2:blocks/-513",
+    "missing": "breachmod2:blocks/"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/banc4",
+  "textures": {
+    "all": "breachmod2:blocks/table",
+    "particle": "breachmod2:blocks/table",
+    "0": "breachmod2:blocks/table",
+    "missing": "breachmod2:blocks/table"
+  }
+}

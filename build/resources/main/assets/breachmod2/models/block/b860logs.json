@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/log_860_top",
+    "up": "breachmod2:blocks/log_860_top",
+    "north": "breachmod2:blocks/log_860",
+    "east": "breachmod2:blocks/log_860",
+    "south": "breachmod2:blocks/log_860",
+    "west": "breachmod2:blocks/log_860",
+    "particle": "breachmod2:blocks/log_860_top"
+  }
+}

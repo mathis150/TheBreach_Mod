@@ -1,0 +1,16 @@
+{
+  "parent": "breachmod2:custom/generateur",
+  "textures": {
+    "all": "breachmod2:blocks/redstone_lamp",
+    "particle": "breachmod2:blocks/redstone_lamp",
+    "0": "breachmod2:blocks/anvil",
+    "1": "breachmod2:blocks/yellow_concrete",
+    "2": "breachmod2:blocks/iron_block",
+    "4": "breachmod2:blocks/red_concrete",
+    "5": "breachmod2:blocks/redstone_lamp",
+    "6": "breachmod2:blocks/red_stained_glass",
+    "7": "breachmod2:blocks/chain",
+    "8": "breachmod2:blocks/cyan_concrete",
+    "9": "breachmod2:blocks/orange_concrete"
+  }
+}

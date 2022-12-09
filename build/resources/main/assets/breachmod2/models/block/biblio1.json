@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/bibiotheque_",
+  "textures": {
+    "all": "breachmod2:blocks/bookshelf",
+    "particle": "breachmod2:blocks/bookshelf",
+    "0": "breachmod2:blocks/bookshelf",
+    "1": "breachmod2:blocks/map"
+  }
+}

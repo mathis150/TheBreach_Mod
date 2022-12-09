@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/esla",
+    "up": "breachmod2:blocks/esla",
+    "north": "breachmod2:blocks/esla",
+    "east": "breachmod2:blocks/esla",
+    "south": "breachmod2:blocks/esla",
+    "west": "breachmod2:blocks/esla",
+    "particle": "breachmod2:blocks/esla"
+  }
+}

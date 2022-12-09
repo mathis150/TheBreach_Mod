@@ -1,0 +1,14 @@
+{
+  "parent": "breachmod2:custom/generateurvaultfantucie",
+  "textures": {
+    "all": "breachmod2:blocks/logo_scp",
+    "particle": "breachmod2:blocks/logo_scp",
+    "0": "breachmod2:blocks/anvil",
+    "1": "breachmod2:blocks/cyan_concrete",
+    "3": "breachmod2:blocks/glass",
+    "4": "breachmod2:blocks/light_gray_concrete",
+    "5": "breachmod2:blocks/rriere-plan",
+    "6": "breachmod2:blocks/logo_scp",
+    "missing": "breachmod2:blocks/"
+  }
+}

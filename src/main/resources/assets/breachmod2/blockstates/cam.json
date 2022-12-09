@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:cam"
+    },
+    "facing=north": {
+      "model": "breachmod2:cam"
+    },
+    "facing=east": {
+      "model": "breachmod2:cam",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:cam",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:cam",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "breachmod2:cam",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "breachmod2:cam",
+      "x": 90
+    }
+  }
+}

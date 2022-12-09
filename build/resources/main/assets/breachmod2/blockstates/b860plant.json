@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=dandelion": {
+      "model": "breachmod2:b860plant"
+    }
+  }
+}

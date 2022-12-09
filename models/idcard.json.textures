@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "ard",
+        "particle": ""
+      },
+      "name": "default"
+    }
+  }
+}

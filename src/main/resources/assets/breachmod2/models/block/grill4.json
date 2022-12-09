@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/grilleverticalcasser",
+  "textures": {
+    "all": "breachmod2:blocks/rille",
+    "particle": "breachmod2:blocks/rille",
+    "0": "breachmod2:blocks/rille"
+  }
+}

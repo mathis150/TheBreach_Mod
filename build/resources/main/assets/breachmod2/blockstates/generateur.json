@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:generateur"
+    },
+    "facing=north": {
+      "model": "breachmod2:generateur"
+    },
+    "facing=east": {
+      "model": "breachmod2:generateur",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:generateur",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:generateur",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "breachmod2:generateur",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "breachmod2:generateur",
+      "x": 90
+    }
+  }
+}

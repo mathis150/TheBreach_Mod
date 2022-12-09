@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:cardreader"
+    },
+    "facing=north": {
+      "model": "breachmod2:cardreader"
+    },
+    "facing=east": {
+      "model": "breachmod2:cardreader",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:cardreader",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:cardreader",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "breachmod2:cardreader",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "breachmod2:cardreader",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "crate_base.001": "crate_base_albedo"
+      },
+      "name": "default"
+    }
+  }
+}

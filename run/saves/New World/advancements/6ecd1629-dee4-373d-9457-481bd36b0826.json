@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2021-02-24 11:38:38 +0100",
+      "extreme_hills": "2021-02-24 11:37:30 +0100",
+      "stone_beach": "2021-02-24 11:38:39 +0100"
+    },
+    "done": false
+  }
+}

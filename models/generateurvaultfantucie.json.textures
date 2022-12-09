@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil",
+        "1": "cyan_concrete",
+        "3": "glass",
+        "4": "light_gray_concrete",
+        "5": "rriere-plan",
+        "6": "logo_scp",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

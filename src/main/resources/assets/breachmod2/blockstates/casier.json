@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:casier"
+    },
+    "facing=north": {
+      "model": "breachmod2:casier"
+    },
+    "facing=east": {
+      "model": "breachmod2:casier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:casier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:casier",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/lamp_simple",
+  "textures": {
+    "all": "breachmod2:blocks/ewight",
+    "particle": "breachmod2:blocks/ewight",
+    "0": "breachmod2:blocks/ewight"
+  }
+}

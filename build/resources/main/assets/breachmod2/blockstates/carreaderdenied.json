@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:carreaderdenied"
+    },
+    "facing=north": {
+      "model": "breachmod2:carreaderdenied"
+    },
+    "facing=east": {
+      "model": "breachmod2:carreaderdenied",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:carreaderdenied",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:carreaderdenied",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "breachmod2:carreaderdenied",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "breachmod2:carreaderdenied",
+      "x": 90
+    }
+  }
+}

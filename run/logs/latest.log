@@ -1,0 +1,234 @@
+[18:19:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/mathi/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:19:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:19:50] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[18:19:50] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_232, running on Windows 10:amd64:10.0, installed at C:\Program Files\Pylo\MCreator\jdk\jre
+[18:19:50] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[18:19:50] [main/ERROR] [FML]: Full: C:\Users\mathi\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[18:19:50] [main/ERROR] [FML]: Trimmed: c:/users/mathi/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[18:19:50] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[18:19:50] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[18:19:50] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[18:19:50] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[18:19:50] [main/INFO] [FML]: Searching C:\Users\mathi\OneDrive\Documents\workspace\breachmod\run\.\mods for mods
+[18:19:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:19:50] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[18:19:50] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[18:19:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:19:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:19:51] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[18:19:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:19:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:19:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[18:19:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:19:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:19:51] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:19:51] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player921
+[18:19:52] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[18:19:52] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_232, BellSoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), 
+	Memory: 649131968 bytes (619 MB) / 758644736 bytes (723 MB) up to 7618953216 bytes (7266 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 526.98' Renderer: 'NVIDIA GeForce RTX 3070/PCIe/SSE2'
+[18:19:52] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[18:19:52] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:19:53] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[18:19:53] [main/INFO] [FML]: Searching C:\Users\mathi\OneDrive\Documents\workspace\breachmod\run\.\mods for mods
+[18:19:53] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[18:19:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, breachmod2] at CLIENT
+[18:19:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, breachmod2] at SERVER
+[18:19:54] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BreachMod2, TheBreachPack.zip
+[18:19:54] [main/INFO] [FML]: Processing ObjectHolder annotations
+[18:19:54] [main/INFO] [FML]: Found 1380 ObjectHolder annotations
+[18:19:54] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:19:54] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:19:54] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:19:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:19:54] [main/INFO] [FML]: OBJLoader: Domain breachmod2 has been added.
+[18:19:55] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 114662000 nanos
+[18:19:55] [main/INFO] [FML]: Applying holder lookups
+[18:19:55] [main/INFO] [FML]: Holder lookups applied
+[18:19:55] [main/INFO] [FML]: Applying holder lookups
+[18:19:55] [main/INFO] [FML]: Holder lookups applied
+[18:19:55] [main/INFO] [FML]: Applying holder lookups
+[18:19:55] [main/INFO] [FML]: Holder lookups applied
+[18:19:55] [main/INFO] [FML]: Applying holder lookups
+[18:19:55] [main/INFO] [FML]: Holder lookups applied
+[18:19:55] [main/INFO] [FML]: Injecting itemstacks
+[18:19:55] [main/INFO] [FML]: Itemstack injection complete
+[18:19:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
+[18:19:56] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:19:57] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:19:57] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:19:57] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:19:57] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:19:59] [main/INFO] [FML]: Max texture size: 16384
+[18:19:59] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture breachmod2:textures/blocks/access_granted.png with size 146x146 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:19:59] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture breachmod2:textures/blocks/access_denied.png with size 159x159 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:20:00] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture breachmod2:textures/blocks/d4813265664a25c4968bc2b2368ab781.png with size 461x461 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:20:03] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 8192x4096 textures-atlas
+[18:20:04] [main/INFO] [FML]: Applying holder lookups
+[18:20:04] [main/INFO] [FML]: Holder lookups applied
+[18:20:04] [main/INFO] [FML]: Injecting itemstacks
+[18:20:04] [main/INFO] [FML]: Itemstack injection complete
+[18:20:04] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[18:20:04] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN minecraft
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:   domain minecraft is missing 2 textures
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:     domain minecraft has 4 locations:
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Forge Mod Loader
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Minecraft Forge
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       resource pack at path .\resourcepacks\TheBreachPack.zip
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain minecraft are:
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/cadre.png
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/texture/button.png
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain minecraft
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[18:20:04] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[18:20:04] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[18:20:17] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[18:20:17] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[18:20:17] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdooropeninganimation
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampwhitebreak1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampwhitebreak2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampwhitebreak3
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:moyenserver2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:moyenserver1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdoorclosinganimation
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:scp513block1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:scp513block2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lamp_off_breack
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hczdooropening
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lamp_on_breack
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe11
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe12
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe13
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe14
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe10
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe19
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe15
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe16
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe17
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe18
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:petitserver
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe22
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe23
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe24
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe25
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe20
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe21
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hczdoorclosed
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe7
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe6
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe9
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe8
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe3
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe5
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe4
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:grandserver1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:grandserver3
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:grandserver2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:ia
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampbreak2
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampbreak3
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe26
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe27
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe28
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationcloseframe29
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame9
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame8
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame7
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame6
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame5
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame4
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame3
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdoorclosedtriggerblock
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame29
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame23
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame24
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame21
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame22
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame27
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame28
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame25
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame26
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame20
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdoorposclosed
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hczdooropen
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame18
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame19
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hcz_door_open_trigger
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame12
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame13
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame10
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame11
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame16
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame17
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame14
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basic_door_animation_frame15
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hcz_door_closed_trigger
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdooropeninvisibleblock
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdoor
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:containementdoorv2animopen
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:basicdooranimationframe1
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:lampbreak
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:carreaderblock
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:ammo_box
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:hczdoorclosing
+[18:20:17] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world breachmod2:scp1356
+[18:20:17] [Server thread/INFO] [FML]: Applying holder lookups
+[18:20:17] [Server thread/INFO] [FML]: Holder lookups applied
+[18:20:17] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@48c21c7e)
+[18:20:17] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[18:20:17] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@48c21c7e)
+[18:20:17] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@48c21c7e)
+[18:20:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:20:18] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:20:18] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:20:18] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 5, from 10
+[18:20:19] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[18:20:19] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[18:20:19] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,breachmod2@1.0.0,mcp@9.42
+[18:20:19] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[18:20:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:20:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player921[local:E:2279a9be] logged in with entity id 118 at (67.30034950776366, 80.8681430633933, 304.9698641107521)
+[18:20:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player921 joined the game
+[18:20:19] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:20:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:20:19] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 5 advancements
+[18:21:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:21:10] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:21:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:21:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:21:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:21:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:21:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:21:10] [Server thread/INFO] [FML]: Applying holder lookups
+[18:21:10] [Server thread/INFO] [FML]: Holder lookups applied
+[18:21:10] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:21:10] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

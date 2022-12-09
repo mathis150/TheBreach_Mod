@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:grandetable"
+    },
+    "facing=north": {
+      "model": "breachmod2:grandetable"
+    },
+    "facing=east": {
+      "model": "breachmod2:grandetable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:grandetable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:grandetable",
+      "y": 270
+    }
+  }
+}

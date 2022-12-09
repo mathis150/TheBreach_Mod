@@ -1,0 +1,10 @@
+{
+  "parent": "breachmod2:custom/catalyser",
+  "textures": {
+    "all": "breachmod2:blocks/catalyseur1",
+    "particle": "breachmod2:blocks/catalyseur1",
+    "0": "breachmod2:blocks/catalyseur1",
+    "1": "breachmod2:blocks/catalyseur2",
+    "2": "breachmod2:blocks/catalyseur3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/dirt",
+    "up": "breachmod2:blocks/860_grass_top",
+    "north": "breachmod2:blocks/860_grass_side",
+    "east": "breachmod2:blocks/860_grass_side",
+    "south": "breachmod2:blocks/860_grass_side",
+    "west": "breachmod2:blocks/860_grass_side",
+    "particle": "breachmod2:blocks/dirt"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:portillon"
+    },
+    "facing=north": {
+      "model": "breachmod2:portillon"
+    },
+    "facing=east": {
+      "model": "breachmod2:portillon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:portillon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:portillon",
+      "y": 270
+    }
+  }
+}

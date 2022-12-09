@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "erverexture",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

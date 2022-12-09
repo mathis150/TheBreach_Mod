@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/portiquedesecurity",
+  "textures": {
+    "all": "breachmod2:blocks/iron_block",
+    "particle": "breachmod2:blocks/iron_block",
+    "0": "breachmod2:blocks/iron_block"
+  }
+}

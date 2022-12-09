@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/scp1025",
+  "textures": {
+    "all": "breachmod2:blocks/texture_1025",
+    "particle": "breachmod2:blocks/texture_1025",
+    "0": "breachmod2:blocks/texture_1025",
+    "missing": "breachmod2:blocks/texture_1025"
+  }
+}

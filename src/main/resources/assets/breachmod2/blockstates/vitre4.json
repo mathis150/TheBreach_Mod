@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:vitre4"
+    },
+    "facing=north": {
+      "model": "breachmod2:vitre4"
+    },
+    "facing=east": {
+      "model": "breachmod2:vitre4",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:vitre4",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:vitre4",
+      "y": 270
+    }
+  }
+}

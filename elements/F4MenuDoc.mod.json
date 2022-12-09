@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F4",
+    "keyBindingName": "F4 Menu Doc",
+    "onKeyPressed": {
+      "name": "F4MenuDocOnKeyPressed"
+    }
+  }
+}

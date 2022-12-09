@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "haut_parleur_texture"
+      },
+      "name": "default"
+    }
+  }
+}

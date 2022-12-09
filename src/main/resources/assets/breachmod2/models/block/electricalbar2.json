@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/electrical_bar2",
+  "textures": {
+    "all": "breachmod2:blocks/lectricanner3",
+    "particle": "breachmod2:blocks/lectricanner3",
+    "0": "breachmod2:blocks/lectricanner3",
+    "missing": "breachmod2:blocks/"
+  }
+}

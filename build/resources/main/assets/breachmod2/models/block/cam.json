@@ -1,0 +1,12 @@
+{
+  "parent": "breachmod2:custom/cam",
+  "textures": {
+    "all": "breachmod2:blocks/cartography_table_top",
+    "particle": "breachmod2:blocks/cartography_table_top",
+    "0": "breachmod2:blocks/iron_block",
+    "1": "breachmod2:blocks/black_concrete_powder",
+    "2": "breachmod2:blocks/red_concrete",
+    "3": "breachmod2:blocks/cartography_table_top",
+    "4": "breachmod2:blocks/green_concrete_powder"
+  }
+}

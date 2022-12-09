@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/cardreaderscpthebreachdenied",
+  "textures": {
+    "all": "breachmod2:blocks/logo_scp",
+    "particle": "breachmod2:blocks/logo_scp",
+    "0": "breachmod2:blocks/texturecardreader",
+    "1": "breachmod2:blocks/access_denied"
+  }
+}

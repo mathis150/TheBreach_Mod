@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:b860logs"
+    },
+    "facing=south": {
+      "model": "breachmod2:b860logs"
+    },
+    "facing=north": {
+      "model": "breachmod2:b860logs"
+    },
+    "facing=east": {
+      "model": "breachmod2:b860logs",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "breachmod2:b860logs",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "breachmod2:b860logs",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "breachmod2:b860logs",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

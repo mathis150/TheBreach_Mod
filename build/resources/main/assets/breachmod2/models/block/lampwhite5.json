@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/lamp_white_5",
+  "textures": {
+    "all": "breachmod2:blocks/lamp_white_5",
+    "particle": "breachmod2:blocks/lamp_white_5",
+    "0": "breachmod2:blocks/lamp_white_5"
+  }
+}

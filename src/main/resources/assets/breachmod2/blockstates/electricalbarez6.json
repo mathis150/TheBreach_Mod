@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:electricalbarez6"
+    },
+    "facing=north": {
+      "model": "breachmod2:electricalbarez6"
+    },
+    "facing=east": {
+      "model": "breachmod2:electricalbarez6",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:electricalbarez6",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:electricalbarez6",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:walllight"
+    },
+    "facing=north": {
+      "model": "breachmod2:walllight"
+    },
+    "facing=east": {
+      "model": "breachmod2:walllight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:walllight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:walllight",
+      "y": 270
+    }
+  }
+}

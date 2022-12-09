@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/foundationceiling",
+    "up": "breachmod2:blocks/foundationceiling",
+    "north": "breachmod2:blocks/foundationceiling",
+    "east": "breachmod2:blocks/foundationceiling",
+    "south": "breachmod2:blocks/foundationceiling",
+    "west": "breachmod2:blocks/foundationceiling",
+    "particle": "breachmod2:blocks/foundationceiling"
+  }
+}

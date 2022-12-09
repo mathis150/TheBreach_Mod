@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/button1_choose",
+  "textures": {
+    "all": "breachmod2:blocks/button_choose",
+    "particle": "breachmod2:blocks/button_choose",
+    "0": "breachmod2:blocks/button_choose",
+    "missing": "breachmod2:blocks/"
+  }
+}

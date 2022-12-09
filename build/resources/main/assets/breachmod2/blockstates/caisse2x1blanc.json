@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "breachmod2:caisse2x1blanc"
+    },
+    "facing=north": {
+      "model": "breachmod2:caisse2x1blanc"
+    },
+    "facing=east": {
+      "model": "breachmod2:caisse2x1blanc",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "breachmod2:caisse2x1blanc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "breachmod2:caisse2x1blanc",
+      "y": 270
+    }
+  }
+}

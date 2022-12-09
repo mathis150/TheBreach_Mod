@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bookshelf",
+        "1": "map",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

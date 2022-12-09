@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/serveur4",
+  "textures": {
+    "all": "breachmod2:blocks/erverexture",
+    "particle": "breachmod2:blocks/erverexture",
+    "0": "breachmod2:blocks/erverexture",
+    "missing": "breachmod2:blocks/"
+  }
+}

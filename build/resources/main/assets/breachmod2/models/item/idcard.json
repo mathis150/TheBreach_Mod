@@ -1,0 +1,7 @@
+{
+  "parent": "breachmod2:custom/idcard",
+  "textures": {
+    "1": "breachmod2:blocks/",
+    "particle": "breachmod2:blocks/"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/petite_lampe_blanche",
+  "textures": {
+    "all": "breachmod2:blocks/petite_lampe",
+    "particle": "breachmod2:blocks/petite_lampe",
+    "0": "breachmod2:blocks/petite_lampe"
+  }
+}

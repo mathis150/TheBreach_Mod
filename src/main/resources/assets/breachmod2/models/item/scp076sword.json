@@ -1,0 +1,6 @@
+{
+  "parent": "breachmod2:custom/scp-076",
+  "textures": {
+    "0": "breachmod2:blocks/-076"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "-513",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

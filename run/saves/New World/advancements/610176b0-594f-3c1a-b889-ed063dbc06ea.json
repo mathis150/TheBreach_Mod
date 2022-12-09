@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-10-08 23:36:59 +0200",
+      "extreme_hills": "2021-10-08 23:34:22 +0200"
+    },
+    "done": false
+  }
+}

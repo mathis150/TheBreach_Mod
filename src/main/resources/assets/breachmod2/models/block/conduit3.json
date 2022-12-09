@@ -1,0 +1,9 @@
+{
+  "parent": "breachmod2:custom/conduit3",
+  "textures": {
+    "all": "breachmod2:blocks/iron_block",
+    "particle": "breachmod2:blocks/iron_block",
+    "0": "breachmod2:blocks/iron_block",
+    "1": "breachmod2:blocks/anvil"
+  }
+}

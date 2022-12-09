@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "TheBreach - Caisses",
+    "icon": {
+      "value": "CUSTOM:Caisse1x1Bleu"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/pasteque",
+  "textures": {
+    "all": "breachmod2:blocks/melon",
+    "particle": "breachmod2:blocks/melon",
+    "1": "breachmod2:blocks/melon"
+  }
+}

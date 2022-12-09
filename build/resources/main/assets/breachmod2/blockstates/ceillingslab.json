@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "breachmod2:ceillingslab"
+    },
+    "half=top,variant=default": {
+      "model": "breachmod2:ceillingslab_top"
+    }
+  }
+}

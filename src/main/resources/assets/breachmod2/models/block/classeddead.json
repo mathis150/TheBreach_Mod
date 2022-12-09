@@ -1,0 +1,8 @@
+{
+  "parent": "breachmod2:custom/steve_dead",
+  "textures": {
+    "all": "breachmod2:blocks/lasse_",
+    "particle": "breachmod2:blocks/lasse_",
+    "0": "breachmod2:blocks/lasse_"
+  }
+}

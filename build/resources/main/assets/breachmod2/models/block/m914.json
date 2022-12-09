@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breachmod2:blocks/border_millieu",
+    "up": "breachmod2:blocks/border_millieu",
+    "north": "breachmod2:blocks/border_millieu",
+    "east": "breachmod2:blocks/border_millieu",
+    "south": "breachmod2:blocks/border_millieu",
+    "west": "breachmod2:blocks/border_millieu",
+    "particle": "breachmod2:blocks/border_millieu"
+  }
+}
